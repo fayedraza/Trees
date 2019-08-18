@@ -1,5 +1,5 @@
 package numbers;
-//crated by Fayed Raza
+//created by Fayed Raza
 public class Number {
 Number left,right;
 static Boolean s = true;
